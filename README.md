@@ -1,1 +1,1 @@
-# galaga-inspired-embedded-arcade-game
+# galaga inspired embedded arcade system
