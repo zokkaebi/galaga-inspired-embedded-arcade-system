@@ -9,3 +9,6 @@
 ----
 --
 to do
+add photos
+add sections
+add complexities
